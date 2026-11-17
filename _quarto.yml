@@ -27,7 +27,7 @@ website:
       - href: writing/index.qmd
         text: Writing
       - href: about.qmd
-        text: About & CV
+        text: About
     right:
       - href: https://github.com/rafaelnikitas
         icon: github

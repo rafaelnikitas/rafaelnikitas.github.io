@@ -1,22 +1,22 @@
 ---
-title: "About & CV"
-description: "Senior data scientist working across predictive modelling, pricing, experimentation and production ML."
+title: "About"
+description: "Senior data scientist working with predictive modelling, statistical reasoning and production ML."
 ---
 
-I am **Nikitas Rafael Nikitas**, a Senior Data Scientist based in Greece. My experience spans banking, fintech and travel technology, with more than eight years working on data science problems.
+I am **Nikitas Rafael Nikitas**, a Senior Data Scientist based in Greece. I work with predictive modelling, statistical reasoning and production machine learning.
 
 ## Professional focus
 
-At **eTraveli Group**, my work has included predictive modelling, dynamic pricing, cache optimisation, experimentation and fraud detection. I have experience deploying LightGBM models through FastAPI, building Airflow pipelines and mentoring junior data scientists.
+I enjoy turning a clear question into an analysis, comparing models against useful baselines and explaining what the evidence supports.
 
-I am interested in the complete path from defining a decision and evaluating a model to making the resulting system usable. This portfolio focuses on work I can share publicly. Public and synthetic demonstrations are labelled separately from professional experience.
+My focus spans feature engineering, experimentation, explainable ML and the pipelines that make a model usable. This portfolio brings together public analyses, notebooks and applications.
 
 ## Areas of practice
 
 | Area | What I work with |
 |---|---|
 | Predictive modelling | Python, SQL, LightGBM, CatBoost, XGBoost, feature engineering, SHAP |
-| Statistical reasoning | Experiment design, uncertainty, model evaluation and decision metrics |
+| Statistical reasoning | A/B testing, causal inference, uncertainty, model evaluation and decision metrics |
 | ML systems | FastAPI, Airflow, reproducible pipelines and data validation |
 | AI applications | Evidence retrieval, grounded explanations, evaluation and fallback behaviour |
 
@@ -30,4 +30,5 @@ I am interested in the complete path from defining a decision and evaluating a m
 
 [GitHub](https://github.com/rafaelnikitas) · [Kaggle](https://www.kaggle.com/rafanikitas)
 
-These profiles are the best starting points for my code, notebooks and further discussion.
+Email: [nikitasrafaelpnikitas@gmail.com](mailto:nikitasrafaelpnikitas@gmail.com)  
+Phone: [+30 693 969 7414](tel:+306939697414)
