@@ -1,0 +1,7 @@
+/_site/
+/.quarto/
+/.openai/
+__pycache__/
+.venv/
+
+**/*.quarto_ipynb

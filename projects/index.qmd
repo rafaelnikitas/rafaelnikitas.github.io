@@ -1,0 +1,18 @@
+---
+title: "Selected work"
+subtitle: "The question, the evidence and the implementation."
+toc: false
+listing:
+  contents:
+    - ../studies/fifa-hidden-gems/index.qmd
+    - ../studies/agora-match/index.qmd
+    - ../studies/football-forecasting/index.qmd
+  type: grid
+  categories: true
+  sort: false
+  filter-ui: true
+  sort-ui: false
+  fields: [image, title, description, categories]
+---
+
+Explore the analyses and applications below. Every case study links to its source and states what has been evaluated.

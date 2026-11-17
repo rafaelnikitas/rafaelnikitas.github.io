@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "projects/*.qmd"
+    - "writing/*.qmd"
+    - "studies/**/*.qmd"
+  resources:
+    - assets/
+    - demos/
+    - robots.txt
+website:
+  title: "Nikitas Rafael Nikitas"
+  description: "Applied data science, statistical reasoning and ML systems. Selected analyses and projects by Nikitas Rafael Nikitas."
+  site-url: https://rafaelnikitas.github.io
+  search:
+    location: navbar
+    type: overlay
+  open-graph: true
+  twitter-card: true
+  navbar:
+    title: "Nikitas."
+    left:
+      - href: projects/index.qmd
+        text: Work
+      - href: writing/index.qmd
+        text: Writing
+      - href: about.qmd
+        text: About & CV
+    right:
+      - href: https://github.com/rafaelnikitas
+        icon: github
+        aria-label: GitHub profile
+      - href: https://www.kaggle.com/rafanikitas
+        text: Kaggle →
+  page-footer:
+    left: "© 2026 Nikitas Rafael Nikitas"
+    right:
+      - text: "Source & editing guide"
+        href: https://github.com/rafaelnikitas/rafaelnikitas.github.io
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    code-fold: true
+    code-summary: "Show code"
+    smooth-scroll: false
+    link-external-newwindow: false
+    anchor-sections: true
+    include-after-body: includes/footer.html
+execute:
+  enabled: false

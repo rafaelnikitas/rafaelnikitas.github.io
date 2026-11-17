@@ -1,0 +1,33 @@
+---
+title: "About & CV"
+description: "Senior data scientist working across predictive modelling, pricing, experimentation and production ML."
+---
+
+I am **Nikitas Rafael Nikitas**, a Senior Data Scientist based in Greece. My experience spans banking, fintech and travel technology, with more than eight years working on data science problems.
+
+## Professional focus
+
+At **eTraveli Group**, my work has included predictive modelling, dynamic pricing, cache optimisation, experimentation and fraud detection. I have experience deploying LightGBM models through FastAPI, building Airflow pipelines and mentoring junior data scientists.
+
+I am interested in the complete path from defining a decision and evaluating a model to making the resulting system usable. This portfolio focuses on work I can share publicly. Public and synthetic demonstrations are labelled separately from professional experience.
+
+## Areas of practice
+
+| Area | What I work with |
+|---|---|
+| Predictive modelling | Python, SQL, LightGBM, CatBoost, XGBoost, feature engineering, SHAP |
+| Statistical reasoning | Experiment design, uncertainty, model evaluation and decision metrics |
+| ML systems | FastAPI, Airflow, reproducible pipelines and data validation |
+| AI applications | Evidence retrieval, grounded explanations, evaluation and fallback behaviour |
+
+## Selected public work
+
+- [Beyond FIFA Potential](studies/fifa-hidden-gems/): historical scouting rankings and individual explanations.
+- [Agora Match](studies/agora-match/): a synthetic football intelligence application with an inspectable evidence layer.
+- [Football Forecasting Lab](studies/football-forecasting/): probabilistic score models, chronological backtesting and league simulation.
+
+## Find me
+
+[GitHub](https://github.com/rafaelnikitas) · [Kaggle](https://www.kaggle.com/rafanikitas)
+
+These profiles are the best starting points for my code, notebooks and further discussion.

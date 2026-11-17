@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rafaelnikitas.github.io/sitemap.xml

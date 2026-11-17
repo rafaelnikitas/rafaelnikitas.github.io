@@ -1,0 +1,18 @@
+---
+title: "Writing & analyses"
+subtitle: "What I tested, what I learned and what remains uncertain."
+toc: false
+listing:
+  contents:
+    - ../studies/fifa-hidden-gems/index.qmd
+    - ../studies/agora-match/index.qmd
+    - ../studies/football-forecasting/index.qmd
+  type: grid
+  categories: true
+  sort: false
+  filter-ui: true
+  sort-ui: false
+  fields: [image, title, description, categories]
+---
+
+Longer analyses and engineering case studies, with the evidence alongside the story. Filter by topic or search the collection.
